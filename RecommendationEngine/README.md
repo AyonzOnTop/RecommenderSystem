@@ -14,6 +14,7 @@ The system uses three scenerios to make recommendation
 The project was built using basic python libraries; 
 - numpy 
 - pandas.
+and the FunkSVD model for prediction.
 
 Recommendation systems have to be very fine tuned for effectiveness, so using third party apis might not give the desired output.
 Hence a custom recommender system gives more relevant results
